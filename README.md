@@ -15,9 +15,9 @@ Para lograr esto, desarrollé una API en Java utilizando Spring Boot que puede s
 
 Identifiqué tres clases principales en nuestro modelo de datos:
 
-- Producto
-- Venta
-- Cliente
+- 📦 Producto
+- 💼 Venta
+- 👤 Cliente
 
 Cada una de estas clases tiene atributos específicos que se detallan en el código del proyecto.
 
