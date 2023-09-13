@@ -1,4 +1,4 @@
-# Proyecto Integrador Final - Gestión de Bazar con Spring Boot
+# Gestión de Bazar con Spring Boot
 
 Este proyecto es el resultado de mi trabajo final para el curso "Desarrollo de APIs en Java con Spring Boot" de la TodoCode Academy. El objetivo principal de esta aplicación es ayudar a un bazar a gestionar sus ventas y productos de manera eficiente.
 
