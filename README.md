@@ -68,5 +68,3 @@ Las contribuciones a este proyecto son bienvenidas. Si tiene ideas para mejoras,
 ## Contacto
 
 Para cualquier pregunta o comentario, no dude en ponerse en contacto conmigo, Dardo Sanchez, a través de [dardosanchez2000@gmail.com](mailto:dardosanchez2000@gmail.com).
-
-¡Gracias por usar mi aplicación!
