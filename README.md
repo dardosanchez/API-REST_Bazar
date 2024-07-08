@@ -61,10 +61,4 @@ Para utilizar esta aplicación en su entorno de desarrollo, siga estos pasos:
 2. Configure las propiedades de la base de datos en el archivo `application.properties`.
 3. Ejecute la aplicación utilizando Spring Boot.
 
-## Contribuciones
 
-Las contribuciones a este proyecto son bienvenidas. Si tiene ideas para mejoras, correcciones de errores o nuevas características, no dude en enviar una solicitud de extracción.
-
-## Contacto
-
-Para cualquier pregunta o comentario, no dude en ponerse en contacto conmigo, Dardo Sanchez, a través de [dardosanchez2000@gmail.com](mailto:dardosanchez2000@gmail.com).
