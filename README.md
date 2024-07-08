@@ -1,6 +1,6 @@
 # Gestión de Bazar con Spring Boot
 
-Este proyecto es el resultado de mi trabajo final para el curso "Desarrollo de APIs en Java con Spring Boot" de la TodoCode Academy. El objetivo principal de esta aplicación es ayudar a un bazar a gestionar sus ventas y productos de manera eficiente.
+El objetivo principal de esta aplicación es ayudar a un bazar a gestionar sus ventas y productos de manera eficiente.
 
 ## Descripción del Escenario
 
